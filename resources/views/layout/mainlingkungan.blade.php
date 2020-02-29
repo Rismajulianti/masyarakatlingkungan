@@ -35,7 +35,7 @@
 
         <div id="navbar" class="navbar-menu ">
             <div class="navbar-start">
-                <a class="navbar-item text-decoration-none" href="{{url('/')}}">
+                <a class="navbar-item text-decoration-none" href="{{url('/pemberitahuan')}}">
                     Pemberitahuan
                 </a>
                 <a class="navbar-item text-decoration-none" href="{{url('/tentangkami')}}">
@@ -61,7 +61,7 @@
                         </a>
                     </div>
                 </div>
-                <a class="navbar-item text-decoration-none" href="{{url('/kontak')}}">
+                <a class="navbar-item text-decoration-none" href="{{url('/hubungikami')}}">
                     Hubungi Kami
                 </a>
             </div>

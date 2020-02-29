@@ -24,14 +24,14 @@
                     <h5 class="card-title text-center mt-2"> Pengumuman</h5>
                 </div>
                 <div class="container">
-                    <img src="images/advertisement.svg" class="img-fluid" style="margin-left: 111px;" width="100"
+                    <img src="images/pengumuman.png" class="img-fluid" style="margin-left: 111px;" width="100"
                         alt="Responsive image">
                 </div>
-            </div>
+            </div><br>
             <div class="card-body">
-                <p class="card-text">Pengumuman Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic explicabo
-                    quae, fugiat architecto dolore ullam sint animi perspiciatis delectus. Eius rerum nisi sequi, libero
-                    optio repellat pariatur iure deserunt totam.</p>
+                <p class="card-text">suatu bentuk penyampaian informasi yang ditujukan kepada khalayak ramai.
+                  Pengumuman merupakan jenis surat yang didasarkan atas jumlah pembaca yang dikehendaki oleh surat tersebut.
+                  Pengumuman biasanya digunakan dalam ruang lingkup yang terbatas atau terbuka secara luas.<p>
             </div>
             <div class="card-footer">
                 <a href="" class="btn btn-outline-primary">Pelajari lebih lanjut</a>
@@ -42,16 +42,14 @@
             <div class="container">
                 <div class="justify-content-center">
                     <h5 class="text-center mt-2">Statistik</h5>
-                </div>
+                </div><br>
                 <div class="container">
                     <img src="images/statistik.svg" class="img-fluid" style="margin-left: 111px;" width="100"
                         alt="Responsive image">
                 </div>
             </div>
             <div class="card-body">
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, eum! Eligendi
-                    harum delectus alias ut laborum. Saepe, commodi blanditiis sapiente quaerat iure fugiat porro
-                    necessitatibus? Maiores ab dignissimos amet ad?</p>
+                <p class="card-text">lmu dan seni pengembangan dan metode yang paling efektif untuk mengumpulkan, mentabulasi, dan menafsirkan data kuantitatif sedemikian rupa sehingga kesalahan dalam kesimpulan dan estimasi dapat diperkirakan menggunakan penalaran induktif berdasarkan probabilitas matematika (peluang).</p>
             </div>
             <div class="card-footer">
                 <a href="" class="btn btn-outline-primary">Pelajari lebih lanjut</a>
@@ -67,16 +65,18 @@
                 </div>
             </div>
             <div class="card-body">
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, eum! Eligendi
-                    harum delectus alias ut laborum. Saepe, commodi blanditiis sapiente quaerat iure fugiat porro
-                    necessitatibus? Maiores ab dignissimos amet ad?</p>
+                <p class="card-text">Pengelolaan pengaduan pelayanan publik di setiap organisasi penyelenggara di Indonesia
+                   belum terkelola secara efektif dan terintegrasi. Masing-masing organisasi penyelenggara mengelola pengaduan
+                   secara parsial dan tidak terkoordinir dengan baik.</p>
             </div>
             <div class="card-footer">
                 <a href="" class="btn btn-outline-primary ">Pelajari lebih lanjut</a>
             </div>
         </div>
     </div>
-</div>
+  </div><br>
+    <footer class="bg-primary">Copyright © 2018–2021 · Web halaman utama lingkungan masyarakat<br>
+Hosting Service | Website Pro | Domain Registration | Email Dedicated | Cloud VPS</footer>
 
 
 

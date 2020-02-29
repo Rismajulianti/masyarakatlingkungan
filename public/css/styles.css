@@ -18,3 +18,21 @@ body {
 #tanggal::placeholder {
     color: black;
 }
+footer{
+  font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    background-color: 324376;
+    color: white;
+    height: 80px;
+    padding: 15px;
+}
+.card-img-top{
+  width: 90%;;
+  padding:30px;
+  image-orientation: 10px;
+  border-radius: 200px;
+}
+.btn{
+  width:250px;
+}

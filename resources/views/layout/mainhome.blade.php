@@ -42,7 +42,7 @@
                 <a class="navbar-item text-decoration-none" href="{{url('/')}}">
                     Pemberitahuan
                 </a>
-                <a class="navbar-item text-decoration-none" href="{{url('/tentangkami')}}">
+                <a class="navbar-item text-decoration-none" href="{{url('/hubungikami')}}">
                     Tentang Kami
                 </a>
                 <div class="navbar-item has-dropdown is-hoverable ">

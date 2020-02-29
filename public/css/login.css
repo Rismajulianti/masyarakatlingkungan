@@ -1,0 +1,9 @@
+body{
+  background-image:url(../images/background.jpg);
+}
+.card{
+    margin-top: 150px;
+    background-color: #022F40;
+    color: white;
+    width: 500px;
+}

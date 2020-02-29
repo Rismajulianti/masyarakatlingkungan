@@ -34,8 +34,15 @@ Route::get('/laporkansekarang', 'LaporkanLingkungan@create');
 Route::post('/resultreport', 'LaporkanLingkungan@store');
 Route::get('/resultreport', 'LaporkanLingkungan@show');
 Route::get('/editlaporan','LaporkanLingkungan@edit');
-
-Auth::routes();
+Route::get('/hubungikami',function(){
+    return view('lingkungan.hubungikami');
+});
+Route::get('/pemberitahuan', function(){
+  return view('lingkungan.pemberitahuan');
+});
+Route::get('/tentangkami', function(){
+  return view('lingkungan.tentangkami');
+});
 
 Route::get('/home', 'LaporkanLingkungan@index')->name('home');
 
